@@ -13,5 +13,5 @@ There are twelve types of layouts based on the image followed in the above link,
 
 The resources that I have used in order to guide myself are the following:
 
-- [Css tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [MDN](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+- [Css tricks - A guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [MDN - Basic concepts of flexbox](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
