@@ -78,6 +78,7 @@ h3:first-child {
 .content .content__right img {
 	width: 100%;
 	margin-bottom: 0.4em;
+	border: var(--border-general);
 }
 
 .number__page {
