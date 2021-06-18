@@ -15,3 +15,4 @@ The resources that I have used in order to guide myself are the following:
 
 - [Css tricks - A guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [MDN - Basic concepts of flexbox](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+- [Platzi - Simpsons newsletter](https://platzi.com/blog/periodico-simpsons-css/)
