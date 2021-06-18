@@ -6,7 +6,7 @@ There are twelve types of layouts based on the image followed in the above link,
 
 <!-- Paste the url image of the papers (src) -->
 <p align="center" width="300">
-    <img align="center" widht="460" height="300" src="" />
+    <img align="center" widht="460" height="300" src="https://github.com/jgcarrillo/scientific-layout-flexbox/blob/main/assets/types_of_scientific_paper.png" />
 </p>
 
 ## Resources
