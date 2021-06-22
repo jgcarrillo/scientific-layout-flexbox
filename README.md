@@ -4,7 +4,7 @@ The aim of this project is to practice with the Flexbox layout inspired by the i
 
 There are twelve types of layouts based on the image followed in the above link, that you can see below:
 
-<p align="center" width="435">
+<p align="center" width="435" height="685">
     <img align="center" width="435" height="685" src="https://github.com/jgcarrillo/scientific-layout-flexbox/blob/main/assets/types_of_scientific_paper.png" />
 </p>
 
