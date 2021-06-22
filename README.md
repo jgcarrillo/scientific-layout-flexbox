@@ -4,10 +4,23 @@ The aim of this project is to practice with the Flexbox layout inspired by the i
 
 There are twelve types of layouts based on the image followed in the above link, that you can see below:
 
-<!-- Paste the url image of the papers (src) -->
 <p align="center" width="300">
     <img align="center" widht="460" height="300" src="https://github.com/jgcarrillo/scientific-layout-flexbox/blob/main/assets/types_of_scientific_paper.png" />
 </p>
+
+## Basic explanation of CSS Flexbox
+
+<p align="center" width="300">
+    <img align="center" widht="460" height="300" src="" />
+</p>
+
+- **<paper>**
+- **<title>**
+- **<info>**
+- **<content>**
+- **<content_left>**
+- **<content_right>**
+- **<number_page>**
 
 ## Resources
 
