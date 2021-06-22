@@ -14,13 +14,13 @@ There are twelve types of layouts based on the image followed in the above link,
     <img align="center" widht="460" height="300" src="" />
 </p>
 
-- **<paper>**
-- **<title>**
-- **<info>**
-- **<content>**
-- **<content_left>**
-- **<content_right>**
-- **<number_page>**
+- **paper**
+- **title**
+- **info**
+- **content**
+- **content_left**
+- **content_right**
+- **number_page**
 
 ## Resources
 
