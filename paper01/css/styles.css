@@ -41,6 +41,7 @@ h3:first-child {
 	margin: 0;
 	padding-bottom: 0.4em;
 	text-align: center;
+	text-transform: uppercase;
 }
 
 .info {
