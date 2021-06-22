@@ -11,7 +11,7 @@ There are twelve types of layouts based on the image followed in the above link,
 ## Basic explanation of CSS Flexbox
 
 <p align="center" width="300">
-    <img align="center" width="660" height="500" src="https://github.com/jgcarrillo/scientific-layout-flexbox/blob/main/assets/info_layout.jpg" />
+    <img align="center" width="699" height="687" src="https://github.com/jgcarrillo/scientific-layout-flexbox/blob/main/assets/info_layout.jpg" />
 </p>
 
 - **paper**
