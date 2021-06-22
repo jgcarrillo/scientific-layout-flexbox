@@ -1,0 +1,81 @@
+:root {
+	--bg-general: #ccc;
+	--bg-paper: white;
+	--border-general: 1px solid black;
+}
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	background-color: var(--bg-general);
+	height: 100vh;
+	margin: 0;
+}
+
+h3 {
+	margin: 0;
+}
+
+.paper {
+	background-color: var(--bg-paper);
+	border: var(--border-general);
+	padding: 10px;
+	width: 50vh;
+	height: 75vh;
+}
+
+.title {
+	display: flex;
+}
+
+.title h1 {
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 2em;
+	margin: 0;
+	padding-bottom: 0.4em;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.info {
+	text-align: center;
+	font-size: 1.1em;
+	margin-bottom: 1.1em;
+}
+
+.info p {
+	margin: 0;
+}
+
+.info p:first-child {
+	margin-top: 0.4em;
+	font-weight: bold;
+}
+
+.info p:last-child {
+	margin-top: 0.4em;
+	font-style: italic;
+}
+
+.content {
+	display: flex;
+	margin-top: 1.2em;
+}
+
+.content__general {
+	margin: 0 1.5em 0 1.5em;
+}
+
+.number__page {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 5em;
+	font-style: italic;
+	font-size: 0.8em;
+}
+
+.number__page p {
+	margin: 0;
+}
