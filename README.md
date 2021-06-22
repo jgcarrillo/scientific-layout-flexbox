@@ -4,8 +4,8 @@ The aim of this project is to practice with the Flexbox layout inspired by the i
 
 There are twelve types of layouts based on the image followed in the above link, that you can see below:
 
-<p align="center" width="435" height="685">
-    <img align="center" width="435" height="685" src="https://github.com/jgcarrillo/scientific-layout-flexbox/blob/main/assets/types_of_scientific_paper.png" />
+<p align="center" width="435">
+    <img align="center" width="435" src="https://github.com/jgcarrillo/scientific-layout-flexbox/blob/main/assets/types_of_scientific_paper.png" />
 </p>
 
 ## Basic explanation of CSS Flexbox
@@ -13,7 +13,7 @@ There are twelve types of layouts based on the image followed in the above link,
 In order to understand the whole concept of CSS Flexbox, there is a sample image representing the structure of all the papers in this project.
 
 <p align="center" width="399">
-    <img align="center" width="399" height="387" src="https://github.com/jgcarrillo/scientific-layout-flexbox/blob/main/assets/info_layout.jpg" />
+    <img align="center" src="https://github.com/jgcarrillo/scientific-layout-flexbox/blob/main/assets/info_layout.jpg" />
 </p>
 
 Every single project have been divided into different parts to achieve the image of a newspaper or a scientific paper and obviously to practice the concepts of Flexbox.
